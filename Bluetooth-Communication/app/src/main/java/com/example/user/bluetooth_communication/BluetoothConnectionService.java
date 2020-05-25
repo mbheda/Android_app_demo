@@ -21,10 +21,10 @@ import java.util.UUID;
 public class BluetoothConnectionService {
     private static final String TAG = "BluetoothConnectionServ";
 
-    private static final String appName = "MYAPP";
+    private static final String appName = "MY M.Eng Project";
 
     private static final UUID MY_UUID_INSECURE =
-            UUID.fromString("8ce255c0-200a-11e0-ac64-0800200c9a66");
+            UUID.fromString("enter UUID here");
 
     private final BluetoothAdapter mBluetoothAdapter;
     Context mContext;
