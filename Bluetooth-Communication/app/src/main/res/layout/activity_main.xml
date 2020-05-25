@@ -20,7 +20,7 @@
         android:id="@+id/btnONOFF"/>
 
     <Button
-        android:text="Enable Discoverable"
+        android:text="Enable Discoverable device"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/btnDiscoverable_on_off"
